@@ -7,9 +7,6 @@ This repository is based on fundamentals of machine learning to predict breast t
 - - - -
 
 ### Proposed Architecture ###
-- Identifying the problem and getting the data
-- Exploratory Data Analysis
-- Pre-processing the data
-- Predictive Model using SVM (Support Vector Machine)
-- Optimizing the support vector classifier
+We'll first identify the problem and get the data for it. Then we'll perform Exploratory Data Analysis(EDA) and pre-process the data. After we have our data ready, we'll build a predictive model using Support Vector Machine(SVM) and optimize the support vector classifier according to our needs.
+
   
