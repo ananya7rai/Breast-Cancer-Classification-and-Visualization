@@ -1,4 +1,4 @@
-# Breast-Cancer-Classification-and-Visualization
+# Breast Cancer Classification and Visualization #
 This repository is based on fundamentals of machine learning to predict breast tumor diagnosis(malignant or benign) using SVM. It covers problem identification, exploratory data analysis, data pre-processing, model building, evaluation, and optimization.
 - - - - 
 
