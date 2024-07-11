@@ -15,7 +15,6 @@ We'll first identify the problem and get the data for it. Then we'll perform Exp
 - The SVM performs better when the dataset is standardized so that all attributes have a mean value of zero and a standard deviation of one.
 - The 2 x 2 Confusion matrix shows the True Positive(TP), True Negative(TN), False Positive(FP) and False Negative(FN) count, giving a clear picture of the classifier's performance on each class.
 - Successfully plotted decision boundaries for different classifiers- linear, polynomial and RBF.
-- - - - 
 
   
 
